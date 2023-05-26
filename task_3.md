@@ -55,4 +55,5 @@ Product Backlog
 • Ежедневно: стендап
 • Ежеспринтно : обзор итогов спринта
 • Ежеспринтно: ретроспектива
- 
+ <img width="2048" alt="Снимок экрана 2023-05-26 в 12 51 44" src="https://github.com/VladimirGorF/Agile/assets/110591063/cd4684f7-70c2-4a5d-90e3-bdac369037b8">
+
